@@ -1,5 +1,8 @@
 test case1
 @Test
 public void TC1(){
-System.out.println("test 1");
+System.out.println("test 1-register");
+}
+public void TC1(){
+System.out.println("test 1-login");
 }
